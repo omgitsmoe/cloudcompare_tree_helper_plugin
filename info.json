@@ -1,0 +1,31 @@
+{
+	"type" : "Standard",
+	"name" : "Tree Isolation Helper",
+	"icon" : ":/CC/plugin/qTreeIso/images/icon.png",
+	"description": "Helper function to isolate single trees.",
+	"authors" : [
+		{
+			"name" : "Morris Aurich",
+			"email" : "aurichmorris@gmail.com"
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "Morris Aurich",
+			"email" : "aurichmorris@gmail.com"
+		}
+	],
+	"references" : [
+		{
+			"text" : "The unsuccessful self-treatment of a case of “writer's block”",
+			"url" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/"
+		},
+		{
+			"text" : "Sword swallowing and its side effects",
+			"url" : "http://www.bmj.com/content/333/7582/1285"
+		},
+		{
+			"text" : "I thought of creating this wonderful plugin while I was hiking up &#x26f0; Mont Blanc"
+		}
+	]
+}
